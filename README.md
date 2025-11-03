@@ -16,6 +16,8 @@ This tutorial outlines the steps required to create your first storage account w
 - Step 5 Be sure to use the resource group you created in step 1 on the resource group option below subscription
 - Step 6 Add a unique name to the storage account
 - Step 7 Click on review + create and create once again
+- Step 8 Check your storage account by searching storage accounts
+- Step 9 Check if your storage account is in the right resource group in the resource group column
 
 <h2>Deployment and Configuration Steps</h2>
 
