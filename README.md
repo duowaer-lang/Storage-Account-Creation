@@ -11,10 +11,11 @@ This tutorial outlines the steps required to create your first storage account w
 
 - Step 1 Search Resource Groups and click on create at the top left of the page ( It will have a + sign) in Microsoft Azure
 - Step 2 Make sure to add a name to your resource group and to choose the appropriate region
-- Step 3 Search storage accounts and click on create a storage account in Microsoft Azure
-- Step 4 Be sure to use the resource group you created in step 1 on the resource group option below subscription
-- Step 5 Add a unique name to the storage account
-- Step 6 Click on review + create
+- Step 3 Click on Review + Create (it will be blue at the bottom of the screen) and then Create once again to make your resource group
+- Step 4 Search storage accounts and click on create a storage account in Microsoft Azure
+- Step 5 Be sure to use the resource group you created in step 1 on the resource group option below subscription
+- Step 6 Add a unique name to the storage account
+- Step 7 Click on review + create
 
 <h2>Deployment and Configuration Steps</h2>
 
