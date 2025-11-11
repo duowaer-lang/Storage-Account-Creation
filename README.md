@@ -31,7 +31,7 @@ This tutorial outlines the steps required to create your first virtual machine i
 - Step 20: Click "Review + Create" at the bottom of the page and "Create" again
 - Step 21: You will be led to a page where it says "Deployment is in progress", wait until it says "Your deployment is complete"
 - Step 22: Search VM again in the search bar and click virtual machines
-Step 23: Congratulations! You will see your very first virtual machine with its status/size/ IP Address
+- Step 23: Congratulations! You will see your very first virtual machine with its status/size/ IP Address
 
 <h2>Deployment and Configuration Steps</h2>
 
